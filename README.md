@@ -4,7 +4,7 @@ A fully integrated 3-statement financial model and DCF valuation for Micron Tech
 
 This is the second iteration of the Micron model, updated from the prior October 2025 version to incorporate updated filings, refined modeling methodology, and a DCF valuation. A changelog documenting all material changes from the prior version is included in the repository.
 
-[Link to downloadable model]
+[[Link to downloadable model]](https://github.com/TylerSpencerVA/Micron-FSM-2.0/blob/main/Micron%20Three%20Statement%20Model%20May%20Update%20FINAL.xlsx)
 
 ## Model Overview
 
