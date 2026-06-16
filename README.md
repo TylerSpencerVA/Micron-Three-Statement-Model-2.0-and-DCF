@@ -19,7 +19,7 @@ Micron is in the middle of a documented memory upcycle driven by AI infrastructu
 
 The model captures the structural improvement thesis (HBM mix, long-term supply agreements, AI demand baseline) through elevated near-term margins and a higher mid-cycle floor than prior cycles, while applying a conservative normalization path in FY2028–FY2030.
 
-<img width="563" height="481" alt="image" src="https://github.com/user-attachments/assets/85d29bf5-dc3c-4cae-8a93-bf6b1197b410" />
+<img width="716" height="425" alt="image" src="https://github.com/user-attachments/assets/bfa8614c-c57e-47fa-a790-e62e7184d8e4" />
 
 ## Methodology
 
