@@ -6,6 +6,8 @@ While Micron's cyclicality and rapidly changing environment make it a difficult 
 
 This is the second iteration of the Micron model, updated from the prior October 2025 version to incorporate updated filings, refined modeling methodology, and a DCF valuation. A changelog documenting all material changes from the prior version is included in the repository.
 
+A deck has been added to the file downloads featuring an executive summary, company overview, industry overview, details regarding the model, scenario analysis, DCF analysis, and sensitivity analysis. 
+
 [[Link to downloadable model]](https://github.com/TylerSpencerVA/Micron-Three-Statement-Model-2.0-and-DCF/blob/main/Micron%20Three%20Statement%20Model%20and%20DCF.xlsx) ("view raw" to download)
 
 ## Model Overview
