@@ -10,7 +10,7 @@ A deck has been added to the file downloads featuring an executive summary, comp
 
 [[Link to downloadable model]](https://github.com/TylerSpencerVA/Micron-Three-Statement-Model-2.0-and-DCF/blob/main/Micron%20Three%20Statement%20Model%20and%20DCF.xlsx) ("view raw" to download)
 
-[[Link to downloadable model]]((https://github.com/TylerSpencerVA/Micron-Three-Statement-Model-2.0-and-DCF/blob/main/Micron%20Model%20and%20DCF%20Deck.pdf))
+[[Link to downloadable deck]](https://github.com/TylerSpencerVA/Micron-Three-Statement-Model-2.0-and-DCF/blob/main/Micron%20Model%20and%20DCF%20Deck.pdf)
 
 ## Model Overview
 
