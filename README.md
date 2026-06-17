@@ -10,6 +10,8 @@ A deck has been added to the file downloads featuring an executive summary, comp
 
 [[Link to downloadable model]](https://github.com/TylerSpencerVA/Micron-Three-Statement-Model-2.0-and-DCF/blob/main/Micron%20Three%20Statement%20Model%20and%20DCF.xlsx) ("view raw" to download)
 
+[[Link to downloadable model]]((https://github.com/TylerSpencerVA/Micron-Three-Statement-Model-2.0-and-DCF/blob/main/Micron%20Model%20and%20DCF%20Deck.pdf))
+
 ## Model Overview
 
 Micron is in the middle of a documented memory upcycle driven by AI infrastructure demand. The central valuation debate is whether the company is structurally re-rating from a cyclical memory business to a durable AI infrastructure cash generator. The base case applies a conservative normalization path with normalized gross margins of 65–55% in years 3, 4, & 5, and deliberately lands below the current market price; the gap to market reflects the structural-re-rating premium the base case does not attempt to carry:
