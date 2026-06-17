@@ -10,14 +10,14 @@ This is the second iteration of the Micron model, updated from the prior October
 
 ## Model Overview
 
-Micron is in the middle of a documented memory upcycle driven by AI infrastructure demand. The central valuation debate is whether the company is structurally re-rating from a cyclical memory business to a durable AI infrastructure cash generator. The base case DCF outputs show a conservative structural re-rating with normalized gross margins of 65-50% in years 3, 4, & 5:
+Micron is in the middle of a documented memory upcycle driven by AI infrastructure demand. The central valuation debate is whether the company is structurally re-rating from a cyclical memory business to a durable AI infrastructure cash generator. The base case applies a conservative normalization path with normalized gross margins of 65–55% in years 3, 4, & 5, and deliberately lands below the current market price; the gap to market reflects the structural-re-rating premium the base case does not attempt to carry:
 
-- **Perpetuity growth (3.0% LTGR)**: $1,076 / share
-- **EBITDA exit multiple (13.0x)**: $1,034 / share
-- **WACC**: 12.65%
-- **Current price (May 26, 2026)**: $895.88
+Perpetuity growth (3.0% LTGR): $615.89 / share (TEV $686B)
+EBITDA exit multiple (7.0x): $624.84 / share (TEV $696B)
+WACC: 10.67%
+Current price (May 26, 2026): $895.88
 
-The model captures the structural improvement thesis (HBM mix, long-term supply agreements, AI demand baseline) through elevated near-term margins and a higher mid-cycle floor than prior cycles, while applying a conservative normalization path in FY2028–FY2030.
+The model captures the structural improvement thesis (HBM mix, long-term supply agreements, AI demand baseline) through elevated near-term margins and a higher mid-cycle floor than prior cycles (55% terminal vs. ~25–30% historical), while applying a conservative normalization path and a through-cycle terminal multiple in FY2028–FY2030.
 
 <img width="716" height="425" alt="image" src="https://github.com/user-attachments/assets/bfa8614c-c57e-47fa-a790-e62e7184d8e4" />
 
@@ -44,10 +44,10 @@ Revenue is built bottom-up by product segment using (1 + bit growth) × (1 + ΔA
 | FY2026 | 75% | Q1 actual 56.8%, Q2 actual 74.4%, Q3 guided ~81% — blended weighted average |
 | FY2027 | 80% | Pricing peak per TrendForce; HBM mix tailwind |
 | FY2028 | 65% | Normalization inflection year |
-| FY2029 | 55% | Continued normalization |
-| FY2030 | 50% | Structural floor — higher than prior cycles given HBM mix and SCAs |
+| FY2029 | 60% | Continued normalization |
+| FY2030 | 55% | Structural floor — higher than prior cycles given HBM mix |
 
-The FY2030 floor of 50% is materially above historical mid-cycle troughs (~25–30%) reflecting three structural arguments: HBM permanently improves mix; node transitions structurally lower cost per bit; long-term supply agreements reduce spot price volatility. Defensible peer comps include SK Hynix at 50–60%, TSMC structural floor at 45%+, and the Intel 1995–2005 dominance period (50–55% floor).
+The FY2030 floor of 55% is materially above historical mid-cycle troughs (~25–30%) reflecting three structural arguments: HBM permanently improves mix; node transitions structurally lower cost per bit; long-term supply agreements reduce spot price volatility. Defensible peer comps include SK Hynix at 50–60%, TSMC structural floor at 45%+, and the Intel 1995–2005 dominance period (50–55% floor).
 
 ### Interest & Debt Schedule
 
@@ -57,33 +57,35 @@ Weighted average interest rate of 5.25% per 10-K Note 12. Interest income calcul
 
 ### CapEx
 
-- FY2026: $26B (management guidance: above $25B)
-- FY2027: $36B (management guidance: construction CapEx +$10B YoY)
-- FY2028–FY2030: $40B (modeler cap; no management guidance available beyond FY2027)
+FY2026: $26B (management guidance: above $25B)
+FY2027: $36B (management guidance: construction CapEx +$10B YoY)
+FY2028–FY2030: $40B (modeler cap; no management guidance available beyond FY2027)
+
+CapEx is subtracted in the unlevered FCF build (NOPAT + D&A + ΔNWC − CapEx); see Material Adjustments below.
 
 ### EPS & Valuation
 
 Diluted share counts for historical periods sourced from 10-K Note 26 (FY2023: 1,093M; FY2024: 1,118M; FY2025: 1,125M). FY2023 loss year applies anti-dilution rule. Forecasted diluted shares reflect SBC issuance net of $1,200M annual repurchases (consistent with Q1 + Q2 actuals; CHIPS Act-constrained).
 
-Target P/E progression: 12x FY2026 → 12x FY2027 → 14x FY2028 → 16x FY2029 → 18x FY2030. The counter-intuitive low-multiple-on-peak-earnings pattern reflects standard memory stock valuation behavior at cycle peaks.
+Target P/E progression (P/E cross-check): 12x FY2026 → 12x FY2027 → 14x FY2028 → 16x FY2029 → 18x FY2030. The counter-intuitive low-multiple-on-peak-earnings pattern reflects standard memory stock valuation behavior at cycle peaks.
 
 ### DCF Valuation
 
 **WACC build:**
-- Risk-free rate: 4.26% (10-year US Treasury)
-- Equity Beta: 1.7 (reflects memory cyclicality with structural moderation)
-- Equity risk premium: 5.0%
-- Cost of equity: 12.76%
-- After-tax cost of debt: 4.38%
-- D/V: 1.4% | E/V: 98.6%
-- WACC: 12.65%
+Risk-free rate: 4.26% (10-year US Treasury)
+Equity Beta: 1.3 (forward-looking; reflects reduced cyclicality from long-term supply agreements and durable HBM demand, held distinct from the backward-looking regression beta of ~1.5–1.7)
+Equity risk premium: 5.0%
+Cost of equity: 10.76%
+After-tax cost of debt: 4.38%
+D/V: 1.4% | E/V: 98.6%
+WACC: 10.67%
 
 **Terminal value approaches:**
 
 | Approach | Assumption | TEV | Equity / Share |
 |---|---|---|---|
-| Perpetuity growth | 3.0% LTGR | $1,209B | $1,076 |
-| EBITDA exit multiple | 13.0x | $1,157B | $1,034 |
+| Perpetuity growth | 3.0% LTGR | $686B | $615.89 |
+| EBITDA exit multiple | 7.0x | $696B | $624.84 |
 
 The 3.0% LTGR sits above long-term US GDP and below historical semiconductor industry growth.
 
@@ -105,15 +107,25 @@ Mid-year convention applied via discount date midpoint between BOP and EOP for e
 
 Sensitivity tables on equity value per share across two dimensions:
 
-**Perpetuity approach**: WACC (11.6%–13.6%) × Long-term growth rate (2.0%–4.0%)
-- Range: $928 (high WACC, low growth) to $1,313 (low WACC, high growth)
+**Perpetuity approach**: WACC (10.2%–11.7%) × Long-term growth rate (2.0%–4.0%)
+- Range: $507 (high WACC, low growth) to $740 (low WACC, high growth)
 
-**EBITDA approach**: WACC (11.6%–13.6%) × Exit EBITDA multiple (12.0x–14.0x)
-- Range: $956 to $1,118
+**EBITDA approach**: WACC (10.2%–11.7%) × Exit EBITDA multiple (6.0x - 8.0x)
+- Range: $544 to $700
 
 Additional sensitivities on first forecast year net income and diluted EPS across gross profit margin and revenue growth.
 
 ## Material Adjustments from Prior Version
+
+June 2026 corrections
+
+**CapEx sign correction** Corrected a sign error in the unlevered FCF build where CapEx was being added rather than subtracted (UFCF now NOPAT + D&A + ΔNWC − CapEx). The prior treatment overstated UFCF by roughly two times CapEx per year. This correction reduced the base-case implied value from roughly $1,050 to the current level and was surfaced via a FCF-to-EBITDA conversion check.
+
+**Beta / WACC** Equity beta lowered from 1.7 to 1.3 (forward-looking), reducing WACC from 12.65% to 10.67%.
+
+**Exit EBITDA multiple** Terminal exit multiple changed from 13.0x to 7.0x to avoid applying an AI-infrastructure-style multiple to peak-cycle EBITDA; now triangulates with the ~6.9x implied perpetuity multiple.
+
+**Gross-margins** Out-year normalization shallowed: FY2029 55% → 60%, FY2030 50% → 55%. Terminal floor now 55%.
 
 **Revenue build** anchored to Q1 and Q2 FY2026 10-Q actuals rather than analyst estimates. FY2026 revenue revised from $54.5B to $111.3B reflecting actual pricing surge and bit growth disclosed in filings.
 
