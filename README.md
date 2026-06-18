@@ -169,3 +169,5 @@ A full changelog documenting all material changes is available in the repository
 ## Acknowledgements
 
 The model and structure is based on Wall Street Prep's Financial Statement Modeling and DCF courses. Learnings from CFA Level I and their financial statement practical skill module helped inform some model updates.
+
+Disclaimer: This is an independent educational project built to demonstrate financial-modeling technique. It is not investment advice, not a recommendation to buy or sell any security, and is not affiliated with or endorsed by Micron Technology, Inc. All figures are estimates derived from public filings and the author's own assumptions and may contain errors.
